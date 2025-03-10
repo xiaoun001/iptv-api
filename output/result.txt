@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-03-10 17:28:00,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2025-03-11 05:26:34,http://113.140.12.230:8888/newlive/live/hls/15/live.m3u8
 
 📺央视频道,#genre#
-CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+CCTV-1,http://113.140.12.230:8888/newlive/live/hls/15/live.m3u8
 CCTV-2,http://113.140.12.230:8888/newlive/live/hls/3/live.m3u8
 CCTV-3,http://113.140.12.230:8888/newlive/live/hls/4/live.m3u8
 CCTV-4,http://113.140.12.230:8888/newlive/live/hls/5/live.m3u8
@@ -19,43 +19,43 @@ CCTV-13,http://39.164.180.36:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0
 CCTV-14,http://113.140.12.230:8888/newlive/live/hls/14/live.m3u8
 CCTV-15,http://113.140.12.230:8888/newlive/live/hls/15/live.m3u8
 CCTV-16,http://42.225.117.174:11199/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17,http://182.37.169.94:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📡卫视频道,#genre#
-广东卫视,http://www.7891136.xyz:50001/TVOD/5000000004000014694/bestzb/index.m3u8?ace
+广东卫视,http://39.164.180.36:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-浙江卫视,http://www.7891136.xyz:50001/TVOD/5000000004000007275/bestzb/index.m3u8?ace
+浙江卫视,http://39.164.180.36:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://39.164.180.36:19901/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://39.164.180.36:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视,http://39.164.180.36:19901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
-安徽卫视,http://www.7891136.xyz:50001/TVOD/6000000001000009954/wasusyt/index.m3u8?ace
-重庆卫视,http://www.7891136.xyz:50001/TVOD/1000000001000001096/ystenlive/index.m3u8?ace
+安徽卫视,http://39.164.180.36:19901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://39.164.180.36:19901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://39.164.180.36:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://39.164.180.36:19901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
+甘肃卫视,http://39.164.180.36:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 广西卫视,http://39.164.180.36:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视,http://39.164.180.36:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 海南卫视,http://221.226.4.10:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://www.7891136.xyz:50001/TVOD/5000000006000040016/bestzb/index.m3u8?ace
+河北卫视,http://39.164.180.36:19901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://221.226.4.10:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://39.164.180.36:19901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://www.7891136.xyz:50001/TVOD/6000000001000014861/wasusyt/index.m3u8?ace
-江西卫视,http://www.7891136.xyz:50001/TVOD/1000000006000268001/ystenlive/index.m3u8?ace
+江苏卫视,http://39.164.180.36:19901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://39.164.180.36:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://39.164.180.36:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 内蒙古卫视,http://39.164.180.36:19901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
-宁夏卫视,http://www.7891136.xyz:50001/TVOD/1000000002000031451/ystenlive/index.m3u8?ace
+宁夏卫视,http://39.164.180.36:19901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 青海卫视,http://39.164.180.36:19901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://39.164.180.36:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-山西卫视,http://www.7891136.xyz:50001/TVOD/1000000002000021220/ystenlive/index.m3u8?ace
-陕西卫视,http://www.7891136.xyz:50001/TVOD/1000000002000007495/ystenlive/index.m3u8?ace
+山西卫视,http://113.140.12.230:8888/newlive/live/hls/41/live.m3u8
+陕西卫视,http://39.164.180.36:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 四川卫视,http://39.164.180.36:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 天津卫视,http://39.164.180.36:19901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-西藏卫视,http://www.7891136.xyz:50001/TVOD/1000000002000015894/ystenlive/index.m3u8?ace
+西藏卫视,http://jf.jxx2023.work:40446/tsfile/live/0111_1.m3u8?key=txiptv
 新疆卫视,http://113.140.12.230:8888/newlive/live/hls/35/live.m3u8
 云南卫视,http://39.164.180.36:19901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🌊港澳节目,#genre#
 凤凰卫视,http://120.198.101.106:9901/tsfile/live/1062_1.m3u8?key=txiptv
-香港卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
