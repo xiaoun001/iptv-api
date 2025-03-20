@@ -1,6 +1,24 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/SXYD.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/aishang.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/bestv.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/cqyx.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/douyuyqk.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/dzh.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/gdcucc.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/ghyx.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/gudou.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/gudouexample.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/hbgd.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/huyayqk.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/itouch.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/msp.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/newbestv.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/sxg.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/yqgd.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/ysptp.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/yylunbo.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
