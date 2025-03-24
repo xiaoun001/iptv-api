@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-24 06:30:23,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
+2025-03-24 18:27:54,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
 
 📺超高清,#genre#
 CCTV4K,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
