@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-28 06:25:03,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
+2025-03-28 18:30:04,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
 
 📺超高清,#genre#
 CCTV4K,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
@@ -70,8 +70,8 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 
 💰央视付费频道,#genre#
-央视台球,http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8
+央视台球,http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
 央视台球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
@@ -206,4 +206,3 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 云南卫视,http://goo.bkpcp.top/mg/ynws
 
 🎵地市频道,#genre#
-绵阳综合,http://119.6.59.216:60033/tsfile/live/1007_1.m3u8?key=txiptv
