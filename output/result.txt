@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-01 18:29:42,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
+2025-04-02 06:27:28,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
 
 📺超高清,#genre#
 CCTV4K,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
@@ -76,9 +76,9 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 风云音乐,https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
+第一剧场,http://58.221.214.82:9901/tsfile/live/0015_2.m3u8?key=txiptv
 第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 第一剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
-第一剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
 风云剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226963/86128874.smil
 风云剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
 风云剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226963/86128874.smil
@@ -206,3 +206,4 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 云南卫视,http://goo.bkpcp.top/mg/ynws
 
 🎵地市频道,#genre#
+绵阳综合,http://119.6.59.216:60033/tsfile/live/1007_1.m3u8?key=txiptv
