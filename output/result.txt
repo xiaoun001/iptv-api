@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-03 18:29:23,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
+2025-04-04 06:25:28,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
 
 📺超高清,#genre#
 CCTV4K,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
@@ -73,9 +73,9 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8
 央视台球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 央视台球,rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil
+风云音乐,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 风云音乐,https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
-风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
 第一剧场,http://58.221.214.82:9901/tsfile/live/0015_2.m3u8?key=txiptv
 第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 第一剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
