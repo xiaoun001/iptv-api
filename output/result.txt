@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-09 18:32:16,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
+2025-04-10 06:26:01,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
 
 📺超高清,#genre#
 CCTV4K,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
@@ -72,11 +72,11 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 
 💰央视付费频道,#genre#
+央视台球,http://183.11.239.36:808/hls/73/index.m3u8
 央视台球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 央视台球,rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil
-央视台球,rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
-风云音乐,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 风云音乐,https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+风云音乐,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
 第一剧场,http://58.221.214.82:9901/tsfile/live/0015_2.m3u8?key=txiptv
 第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
@@ -90,15 +90,15 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
+风云足球,http://183.11.239.36:808/hls/133/index.m3u8
 风云足球,http://dassby.qqff.top:99/live/风云足球/index.m3u8
 风云足球,rtsp://115.153.245.70/PLTV/88888888/224/3221227000/86128919.smil
-风云足球,rtsp://115.153.247.80/PLTV/88888888/224/3221227000/86128919.smil
 电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
 世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
 兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
