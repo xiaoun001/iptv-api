@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2025-04-10 18:30:37,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
+2025-04-11 06:29:14,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
 
 📺超高清,#genre#
 CCTV4K,http://livetv.wqwqwq.sbs/gaoma/cctv4k.m3u8
 CCTV4K,http://3501776.xyz:35455/gaoma/cctv4k.m3u8
+CCTV4K,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
 CCTV8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 
 📺央视频道,#genre#
@@ -208,4 +209,3 @@ CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&vid
 云南卫视,http://goo.bkpcp.top/mg/ynws
 
 🎵地市频道,#genre#
-绵阳综合,http://119.6.59.216:60033/tsfile/live/1007_1.m3u8?key=txiptv
